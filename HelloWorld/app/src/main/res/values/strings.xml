@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Dae man</string>
+    <string name="bSoma" translatable="false">SOMAR</string>
+    <string name="bSub" translatable="false">SUBTRAIR</string>
+    <string name="bMult" translatable="false">MULTIPLICAR</string>
+    <string name="bDiv" translatable="false">DIVIDIR</string>
+</resources>
